@@ -8,7 +8,7 @@ This repository is where I put my solutions to some tracks in exercism. Since I 
 I really recommend you to visit this site and look if it is suitable to your purposes.
 ## About Me
 
-I'm a Data Scientist and OSINT developer consultant in Mexico. I am writing code for a blockchain Defi startup and enjoying my free time reading and playing my guitar.
+I'm a Data Scientist and a Business Intelligence Consultant in Mexico. I am writing code for a blockchain Defi startup and enjoying my free time reading and playing my guitar.
 
 I have a degree in Computers Engineering from Universidad Autonoma de Baja California.
 ## Tracks
